@@ -1,0 +1,7 @@
+Ссылки на абстракции:
+
+1. Абстракция «квартира» и «дом» на ЦИАН
+https://docs.google.com/spreadsheets/d/1Id7jh-xTeSEuh29IZi2H6K0hMLtBJbAxV5ud27QKNqo/edit?usp=sharing
+
+2. Абстракция «продавец» на «Авито»
+https://docs.google.com/spreadsheets/d/17EWbnhOFQy0tzJeht4CwpcgQV2IGLwU10sInMoHEahk/edit?usp=sharing
